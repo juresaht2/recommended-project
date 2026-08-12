@@ -29,7 +29,7 @@
     "twig/twig": "3.27.*",
     "composer/installers": "^2.3",
     "mautic/core-composer-scaffold": "1.0.0",
-    "mautic/core-lib": "7.x-dev",
+    "mautic/core-lib": "dev-composer-assets-fix",
     "mautic/core-project-message": "4.x-dev",
     "mautic/grapes-js-builder-bundle": "7.x-dev",
     "mautic/plugin-clearbit": "7.x-dev",
